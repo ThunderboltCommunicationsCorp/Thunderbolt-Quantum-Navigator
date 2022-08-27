@@ -6,4 +6,3 @@ You don't need to have an installasion assistant for this program.
 
 Put it anywhere on your computer and it will work!
 -------------------------------------------------------------------------------------------
-On the last unreleased version, we Dropped Support for Windows 2000/ME.
