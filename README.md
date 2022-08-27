@@ -6,3 +6,4 @@ You don't need to have an installasion assistant for this program.
 
 Put it anywhere on your computer and it will work!
 -------------------------------------------------------------------------------------------
+<img src="https://bkit.co/w_6309f24b8e8f4.gif" />
