@@ -1,4 +1,4 @@
-# Project-WebExplorer-Browser
+# Thunderbolt-Browser
 A simple Browser that brings back the feeling of the old Internet Style!
 
 Experience the old Internet and old feel with a simple new browser that is also portable!
