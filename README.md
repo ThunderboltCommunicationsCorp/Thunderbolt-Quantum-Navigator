@@ -1,6 +1,6 @@
-# Thunderbolt-Browser
-A lightweight browser made to provide functionality and service while being natively portable!
+# Thunderbolt Quantum Navigator
+A lightweight browser made to provide functionality!
 
-It's functionality will remain the same, no matter what location you choose to place it in!
--------------------------------------------------------------------------------------------
-<img src="https://bkit.co/w_6309f24b8e8f4.gif" />
+Now with a new installer, more powerfull than ever before!
+
+A README.txt is provided with installer for futher instructions.
