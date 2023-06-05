@@ -9,7 +9,7 @@ Registration Servers are now down and Technical Support Servers are down as well
 
 Once the program ends support in 2025, it will remain availabe for testing perposes and Legacy of the In-Development UWP version.
 
-Source code may be given so thaqt forks can be made when it ends support, but it's still to be descided.
+Source code may be given so that forks can be made when it ends support, but it's still to be descided.
 
 Thank you for being with us this whole time!
 
