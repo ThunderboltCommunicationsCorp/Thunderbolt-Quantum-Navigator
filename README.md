@@ -1,4 +1,4 @@
-# Thunderbolt Quantum Navigator Legacy
+# Thunderbolt Quantum Navigator
 A lightweight browser made to provide functionality!
 
 # We're Delaying the Move!
