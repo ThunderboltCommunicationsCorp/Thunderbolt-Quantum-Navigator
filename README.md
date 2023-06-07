@@ -1,21 +1,11 @@
 # Thunderbolt Quantum Navigator Legacy
 A lightweight browser made to provide functionality!
 
-# We're Moving...
+# We're Delaying the Move!
 
-By the end of 2025 Thunderbolt Quantum Navigator Legacy will reach it's End Of Life (EOS) in favour of it's In-Development UWP Counterpart.
-Until then, Security and Bug fix updates will mostly be available (Less frequent Feature Updates).
-Registration Servers are now down and Technical Support Servers are down as well.
+Due to technical issues with the development of the UWP version of the browser, the win32 version is going back online and is going to be receiving more featuyre updates until we have faced ther problem with the UWP counterpart!
 
-Once the program ends support in 2025, it will remain availabe for testing perposes and Legacy of the In-Development UWP version.
-
-Source code may be given so that forks can be made when it ends support, but it's still to be descided.
-
-Thank you for being with us this whole time!
-
-
-
-
+Thank you for sticking with us at this time of the development stages!
 
 
 
