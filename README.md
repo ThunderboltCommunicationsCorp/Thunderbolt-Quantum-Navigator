@@ -1,5 +1,5 @@
 # Thunderbolt Quantum Navigator
-A lightweight browser made to provide functionality!
+A lightweight browser made to provide functionality on older systems!
 
 -------------------------------------------------------------------
 
