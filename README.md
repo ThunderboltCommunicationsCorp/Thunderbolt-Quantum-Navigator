@@ -1,5 +1,5 @@
 # Thunderbolt Quantum Navigator
-A lightweight browser made to provide functionality on older systems!
+The first program on the Thunderbolt Suite, the only way to truly browse the internet!
 
 -------------------------------------------------------------------
 
