@@ -16,7 +16,8 @@ At least 500 MB of disk space
 -------------------------------------------------------------------
 # Status:
 
-Work has now finished on the installer for Thunderbolt Quantum Navigator and can be found in the latest release (12.6.0.0)
+Work has now finished on the latest release (14.1.0.0) with lots of improvements and additions!
+Also work has begun on the Visual Refresh!
 
 -------------------------------------------------------------------
 
