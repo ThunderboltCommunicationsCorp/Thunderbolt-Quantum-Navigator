@@ -7,11 +7,11 @@ The first program on the Thunderbolt Suite, the only way to truly browse the int
 
 Windows 11, 10, 8.1, 8, 7 operating system
 
-Microsoft Edge Chromium browser installed
+WebView2 installed
 
 At least 2 GB of RAM
 
-At least 500 MB of disk space
+At least 1 GB of disk space
 
 -------------------------------------------------------------------
 # Status:
