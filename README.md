@@ -16,8 +16,7 @@ At least 1 GB of disk space
 -------------------------------------------------------------------
 # Status:
 
-Work has now finished on the latest release (14.1.0.0) with lots of improvements and additions!
-Also work has begun on the Visual Refresh!
+Work is progressing on the upcoming UWP version of Thunderbolt Quantum Navigator with the first Preview (0.1.0.0) Released to Testers in a number of regions, it is expected that the final build (1.0.0.0) will be released later this year. Also there's a new update in the works for Thunderbolt Quantum Navigator Legacy (win32).
 
 -------------------------------------------------------------------
 
