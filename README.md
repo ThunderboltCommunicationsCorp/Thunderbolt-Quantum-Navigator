@@ -1,6 +1,10 @@
 # Thunderbolt Quantum Navigator
 The first program on the Thunderbolt Suite, the only way to truly browse the internet!
 
+Note that Thunderbolt Quantum Navigator Legacy will shut down in January 2026 to target the team to Thunderbolt Quantum Navigator UWP more.
+
+Here at TCC, we strive to give you the best possible experience with all our products and services. Thank you for supporting us!
+
 -------------------------------------------------------------------
 
 # System Requirements:
@@ -16,7 +20,7 @@ At least 1 GB of disk space
 -------------------------------------------------------------------
 # Status:
 
-Work is progressing on the upcoming UWP version of Thunderbolt Quantum Navigator with the first Preview (0.1.0.0) Released to Testers in a number of regions, it is expected that the final build (1.0.0.0) will be released later this year. Also there's a new update in the works for Thunderbolt Quantum Navigator Legacy (win32). Also there is a screenshot showing the current state of Thunderbolt Quantum Navigator for UWP version 0.1.0.0 
+Work is progressing on Thunderbolt Quantum Navigator UWP, it is expected that the final build (1.0.0.0) will be released later this year. Also there's a new update for Thunderbolt Quantum Navigator Legacy (win32) released to keep everyone on Windows versions that don't have UWP support up to date.
 
 -------------------------------------------------------------------
 
