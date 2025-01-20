@@ -20,7 +20,7 @@ At least 1 GB of disk space
 -------------------------------------------------------------------
 # Status:
 
-Work is progressing on Thunderbolt Quantum Navigator UWP, it is expected that the final build (1.0.0.0) will be released later this year. Also there's a new update for Thunderbolt Quantum Navigator Legacy (win32) released to keep everyone on Windows versions that don't have UWP support up to date.
+Work is temporarily stopped on Thunderbolt Quantum Navigator UWP to give Thunderbolt Quantum Navigator Legacy the time that is required to finish adding all the features that are planned to be added to it until it reaches it's end of life date later this year to keep it somewhat relevant for the distant future. We are also going to at some point end support for Windows 7 due to it's lack of service for WebView2.
 
 -------------------------------------------------------------------
 
