@@ -9,18 +9,18 @@ Here at TCC, we strive to give you the best possible experience with all our pro
 
 # System Requirements:
 
-Windows 11, 10, 8.1, 8, 7 operating system
+Operating System: Windows 11, 10, 8.1, 8
 
-WebView2 installed
+Microsoft Edge: WebView2
 
 At least 2 GB of RAM
 
-At least 1 GB of disk space
+At least 1.5 GB of disk space
 
 -------------------------------------------------------------------
 # Status:
 
-Work is temporarily stopped on Thunderbolt Quantum Navigator UWP to give Thunderbolt Quantum Navigator Legacy the time that is required to finish adding all the features that are planned to be added to it until it reaches it's end of life date later this year to keep it somewhat relevant for the distant future. We are also going to at some point end support for Windows 7 due to it's lack of service for WebView2.
+Work is temporarily stopped on Thunderbolt Quantum Navigator UWP to give Thunderbolt Quantum Navigator Legacy the time that is required to finish adding all the features that are planned to be added to it until it reaches it's end of life date later this year to keep it somewhat relevant for the distant future.
 
 -------------------------------------------------------------------
 
